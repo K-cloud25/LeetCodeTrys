@@ -1,0 +1,5 @@
+# Number is convert to Binary and count of 1 is aquired from the bin return
+
+class Solution:
+    def hammingWeight(self, n: int) -> int:
+        return bin(n).count("1")
