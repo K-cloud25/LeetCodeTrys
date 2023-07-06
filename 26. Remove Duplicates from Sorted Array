@@ -1,0 +1,17 @@
+// Brute : use Set to sort the array then replace the elements of array
+// Optimal : use 2 pointers to parse array and maintain unque list in the array itself
+
+class Solution {
+public:
+    int removeDuplicates(vector<int>& a) {
+        int i=0;
+        for(int j=1;j<a.size();j++){
+            if(a[i] != a[j]){
+                a[i+1] = a[j];
+                i++;
+            }
+        }
+        ++i;
+        return i;
+    }
+};
