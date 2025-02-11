@@ -7,6 +7,7 @@ My leet code submissions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0018-4sum) |
 | [0054-spiral-matrix](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0073-set-matrix-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0560-subarray-sum-equals-k) |
@@ -32,8 +33,10 @@ My leet code submissions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0018-4sum) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
