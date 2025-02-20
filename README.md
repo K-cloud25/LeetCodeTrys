@@ -15,6 +15,7 @@ My leet code submissions
 | [0152-maximum-product-subarray](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0152-maximum-product-subarray) |
 | [0493-reverse-pairs](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0560-subarray-sum-equals-k) |
+| [0792-binary-search](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ My leet code submissions
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0493-reverse-pairs) |
+| [0792-binary-search](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
