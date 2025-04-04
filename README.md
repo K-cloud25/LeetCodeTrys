@@ -54,6 +54,7 @@ My leet code submissions
 | [0015-3sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0151-reverse-words-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -106,6 +107,7 @@ My leet code submissions
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
