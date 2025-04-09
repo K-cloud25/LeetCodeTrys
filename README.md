@@ -32,6 +32,7 @@ My leet code submissions
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
@@ -62,6 +63,7 @@ My leet code submissions
 | [0018-4sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -109,6 +111,7 @@ My leet code submissions
 | ------- |
 | [0014-longest-common-prefix](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0242-valid-anagram) |
 | [1078-remove-outermost-parentheses](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
