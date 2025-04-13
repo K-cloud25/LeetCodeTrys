@@ -130,4 +130,8 @@ My leet code submissions
 |  |
 | ------- |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1890-sum-of-beauty-of-all-substrings) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
