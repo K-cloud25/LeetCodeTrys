@@ -1,21 +1,18 @@
 class Solution {
 public:
-    
     int count(vector<int>& nums, int goal){
-
-        if ( goal<0) return 0;
-        int left=0, right=0, cnt=0, sum=0;
-        while(right<nums.size()){
-            sum+=nums[right];
+        if(goal<0) return 0;
+        int l=0,r=0,res=0,sum=0;
+        while(r<nums.size()){
+            sum+=nums[r];
             while(sum>goal){
-                sum-=nums[left];
-                left++;
+                sum-=nums[l];
+                l++;
             }
-            cnt=cnt+(right-left+1);
-            right++;
+            res+=(r-l+1);
+            r++;
         }
-        return cnt;
-
+        return res;
     }
 
     int numSubarraysWithSum(vector<int>& nums, int goal) {
