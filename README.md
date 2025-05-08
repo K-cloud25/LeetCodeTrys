@@ -126,6 +126,7 @@ My leet code submissions
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0152-maximum-product-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0678-valid-parenthesis-string) |
 ## String
 |  |
 | ------- |
@@ -136,6 +137,7 @@ My leet code submissions
 | [0151-reverse-words-in-a-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -143,6 +145,7 @@ My leet code submissions
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
@@ -175,6 +178,7 @@ My leet code submissions
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0890-lemonade-change) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/K-cloud25/LeetCodeTrys/tree/master/2497-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
