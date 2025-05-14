@@ -22,6 +22,7 @@ My leet code submissions
 | [0088-merge-sorted-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0217-contains-duplicate](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0240-search-a-2d-matrix-ii) |
 | [0455-assign-cookies](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0493-reverse-pairs) |
@@ -44,6 +45,7 @@ My leet code submissions
 | [0003-longest-substring-without-repeating-characters](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0076-minimum-window-substring) |
+| [0217-contains-duplicate](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0560-subarray-sum-equals-k) |
@@ -86,6 +88,7 @@ My leet code submissions
 | [0018-4sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0455-assign-cookies) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/K-cloud25/LeetCodeTrys/tree/master/2497-maximum-matching-of-players-with-trainers) |
