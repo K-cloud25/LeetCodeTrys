@@ -9,6 +9,7 @@ My leet code submissions
 | [0001-two-sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0035-search-insert-position) |
@@ -81,6 +82,7 @@ My leet code submissions
 | ------- |
 | [0015-3sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0455-assign-cookies) |
