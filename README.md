@@ -6,6 +6,7 @@ My leet code submissions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0033-search-in-rotated-sorted-array) |
@@ -43,6 +44,7 @@ My leet code submissions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0076-minimum-window-substring) |
