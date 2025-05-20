@@ -14,6 +14,7 @@ My leet code submissions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0054-spiral-matrix) |
@@ -60,6 +61,7 @@ My leet code submissions
 | [0001-two-sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0076-minimum-window-substring) |
