@@ -31,6 +31,7 @@ My leet code submissions
 | [0169-majority-element](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0304-range-sum-query-2d-immutable) |
@@ -65,6 +66,7 @@ My leet code submissions
 | [0169-majority-element](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0424-longest-repeating-character-replacement) |
@@ -118,6 +120,7 @@ My leet code submissions
 | [0088-merge-sorted-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0455-assign-cookies) |
@@ -204,6 +207,7 @@ My leet code submissions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0347-top-k-frequent-elements) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Linked List
