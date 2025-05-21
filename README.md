@@ -113,6 +113,7 @@ My leet code submissions
 | [0344-reverse-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0680-valid-palindrome-ii) |
+| [1894-merge-strings-alternately](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1894-merge-strings-alternately) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/K-cloud25/LeetCodeTrys/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
@@ -199,6 +200,7 @@ My leet code submissions
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1894-merge-strings-alternately](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1894-merge-strings-alternately) |
 ## Stack
 |  |
 | ------- |
