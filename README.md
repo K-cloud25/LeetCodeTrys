@@ -15,6 +15,7 @@ My leet code submissions
 | [0035-search-insert-position](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0054-spiral-matrix) |
@@ -109,6 +110,7 @@ My leet code submissions
 | [0015-3sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0344-reverse-string) |
@@ -179,6 +181,7 @@ My leet code submissions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -207,6 +210,7 @@ My leet code submissions
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -287,4 +291,8 @@ My leet code submissions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0347-top-k-frequent-elements) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
