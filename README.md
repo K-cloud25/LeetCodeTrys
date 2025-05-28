@@ -43,6 +43,7 @@ My leet code submissions
 | [0493-reverse-pairs](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0817-design-hashmap) |
@@ -119,6 +120,7 @@ My leet code submissions
 | [0344-reverse-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0917-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1894-merge-strings-alternately) |
@@ -137,6 +139,7 @@ My leet code submissions
 | [0242-valid-anagram](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0948-sort-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/K-cloud25/LeetCodeTrys/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -153,6 +156,7 @@ My leet code submissions
 | [0240-search-a-2d-matrix-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -246,6 +250,7 @@ My leet code submissions
 | [0219-contains-duplicate-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0658-find-k-closest-elements) |
 | [0966-binary-subarrays-with-sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -281,6 +286,7 @@ My leet code submissions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
