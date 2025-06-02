@@ -46,6 +46,7 @@ My leet code submissions
 | [0540-single-element-in-a-sorted-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0658-find-k-closest-elements) |
+| [0735-asteroid-collision](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0817-design-hashmap) |
@@ -99,6 +100,7 @@ My leet code submissions
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0735-asteroid-collision) |
 | [2058-concatenation-of-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/2058-concatenation-of-array) |
 ## Prefix Sum
 |  |
@@ -230,6 +232,7 @@ My leet code submissions
 | [0150-evaluate-reverse-polish-notation](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0678-valid-parenthesis-string) |
+| [0735-asteroid-collision](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
