@@ -192,6 +192,7 @@ My leet code submissions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0055-jump-game) |
@@ -206,6 +207,7 @@ My leet code submissions
 | [0008-string-to-integer-atoi](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0151-reverse-words-in-a-string) |
@@ -327,4 +329,8 @@ My leet code submissions
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0239-sliding-window-maximum) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
