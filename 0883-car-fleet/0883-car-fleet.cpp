@@ -1,12 +1,3 @@
-class Car{
-    public:
-    Car(int pos, int speed){
-        this->pos=pos;
-        this->speed=speed;
-    }
-    int pos;
-    int speed;
-};
 class Solution {
 public:
 
