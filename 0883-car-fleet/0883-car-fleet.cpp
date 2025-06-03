@@ -11,21 +11,20 @@ class Solution {
 public:
 
     int carFleet(int target, vector<int>& position, vector<int>& speed) {
-        vector<Car> cars;
-        int n = position.size();
-        for(int i=0;i<n;i++){
-            cars.emplace_back(position.at(i), speed.at(i));
+        vector<pair<int, double>> cars;
+        for(int i=0;i<position.size();i++){
+            double time = (target-position.at(i))/(float)speed.at(i);
+            cars.push_back({position.at(i), time});
         } 
 
-        sort(cars.begin(), cars.end(), [](const Car& a, const Car& b){return a.pos<b.pos;});
-        stack<float> mono;
-        for(int i=0;i<n;i++){
-            float time= (target-cars.at(i).pos)/(float)cars.at(i).speed;
-            while(!mono.empty() && time >= mono.top()){
-                mono.pop();
+        sort(cars.rbegin(), cars.rend());
+        double maximum=-1.0; int count=0;
+        for(auto&[pos,t] : cars){
+            if ( maximum==-1 || t>maximum ){
+                maximum=t;
+                count++;
             }
-            mono.push(time);
         }
-        return mono.size();
+        return count;
     }
 };
