@@ -245,6 +245,7 @@ My leet code submissions
 | [0735-asteroid-collision](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0883-car-fleet) |
+| [0937-online-stock-span](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
@@ -303,6 +304,7 @@ My leet code submissions
 | [0304-range-sum-query-2d-immutable](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0304-range-sum-query-2d-immutable) |
 | [0816-design-hashset](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0817-design-hashmap) |
+| [0937-online-stock-span](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0937-online-stock-span) |
 ## Hash Function
 |  |
 | ------- |
@@ -338,6 +340,7 @@ My leet code submissions
 | [0042-trapping-rain-water](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0883-car-fleet) |
+| [0937-online-stock-span](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -354,4 +357,8 @@ My leet code submissions
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0128-longest-consecutive-sequence) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
