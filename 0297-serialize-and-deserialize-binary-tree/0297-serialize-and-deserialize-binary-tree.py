@@ -6,41 +6,39 @@
 #         self.right = None
 
 class Codec:
-
     def serialize(self, root):
-        if not root:
-            return "#"
-        res, q = [], deque([root])
-        while q:
-            n = q.popleft()
-            if n:
-                res.append(str(n.val))
-                q.append(n.left)
-                q.append(n.right)
-            else:
-                res.append("#")
-        return ",".join(res)
-
+        """Encodes a tree to a single string.
         
+        :type root: TreeNode
+        :rtype: str
+        """
+
+        out = []
+        def dfs(root):
+            if not root:
+                out.append("#")
+                return
+            out.append(str(root.val)) 
+            dfs(root.left)
+            dfs(root.right)
+
+        dfs(root)
+
+        return ",".join(out)
 
     def deserialize(self, data):
-        if data=="#":
-            return None
-        nodes = data.split(",")
-        root = TreeNode(int(nodes[0]))
-        q = deque([root])
-        i = 1
-        while q:
-            curr = q.popleft()
-            if nodes[i] != "#":
-                curr.left = TreeNode(int(nodes[i]))
-                q.append(curr.left)
-            i+= 1
-            if i<len(nodes) and nodes[i] != "#":
-                curr.right = TreeNode(int(nodes[i]))
-                q.append(curr.right)
-            i+=1
-        return root
+        """Decodes your encoded data to tree.
+        
+        :type data: str
+        :rtype: TreeNode
+        """
+        
+        def reverse(arr):
+            node = arr.popleft()
+            return TreeNode(int(node), reverse(arr), reverse(arr)) if node != "#" else None
+        
+        arr = collections.deque(data.split(","))
+        return reverse(arr)
 
 # Your Codec object will be instantiated and called as such:
 # ser = Codec()
