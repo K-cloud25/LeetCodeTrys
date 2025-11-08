@@ -307,6 +307,7 @@ My leet code submissions
 | [0155-min-stack](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0155-min-stack) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0304-range-sum-query-2d-immutable) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0817-design-hashmap) |
 | [0937-online-stock-span](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0937-online-stock-span) |
@@ -321,6 +322,7 @@ My leet code submissions
 | [0239-sliding-window-maximum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0658-find-k-closest-elements) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -365,6 +367,7 @@ My leet code submissions
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0937-online-stock-span) |
 ## Recursion
 |  |
@@ -377,6 +380,7 @@ My leet code submissions
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -390,6 +394,7 @@ My leet code submissions
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -398,4 +403,5 @@ My leet code submissions
 |  |
 | ------- |
 | [0784-insert-into-a-binary-search-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
