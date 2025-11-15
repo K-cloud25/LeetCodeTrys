@@ -60,6 +60,7 @@ My leet code submissions
 | [0948-sort-an-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0966-binary-subarrays-with-sum) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1127-last-stone-weight](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1127-last-stone-weight) |
 | [1370-count-number-of-nice-subarrays](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -324,6 +325,7 @@ My leet code submissions
 | [0658-find-k-closest-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
