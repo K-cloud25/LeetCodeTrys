@@ -59,6 +59,7 @@ My leet code submissions
 | [0917-boats-to-save-people](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0966-binary-subarrays-with-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0973-k-closest-points-to-origin) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1127-last-stone-weight) |
 | [1370-count-number-of-nice-subarrays](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1370-count-number-of-nice-subarrays) |
@@ -155,6 +156,7 @@ My leet code submissions
 | [0883-car-fleet](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0973-k-closest-points-to-origin) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/K-cloud25/LeetCodeTrys/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
@@ -183,6 +185,7 @@ My leet code submissions
 | [0347-top-k-frequent-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -289,6 +292,7 @@ My leet code submissions
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0973-k-closest-points-to-origin](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0973-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1370-count-number-of-nice-subarrays) |
 ## Greedy
 |  |
@@ -325,6 +329,7 @@ My leet code submissions
 | [0658-find-k-closest-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0973-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
@@ -343,6 +348,7 @@ My leet code submissions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0973-k-closest-points-to-origin) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -406,4 +412,8 @@ My leet code submissions
 | ------- |
 | [0784-insert-into-a-binary-search-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0789-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
