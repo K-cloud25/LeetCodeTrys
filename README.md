@@ -48,6 +48,7 @@ My leet code submissions
 | [0493-reverse-pairs](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0658-find-k-closest-elements) |
 | [0735-asteroid-collision](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0739-daily-temperatures) |
@@ -89,6 +90,7 @@ My leet code submissions
 | [0424-longest-repeating-character-replacement](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0621-task-scheduler) |
 | [0816-design-hashset](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0817-design-hashmap) |
 | [0966-binary-subarrays-with-sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0966-binary-subarrays-with-sum) |
@@ -154,6 +156,7 @@ My leet code submissions
 | [0242-valid-anagram](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0658-find-k-closest-elements) |
 | [0883-car-fleet](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0917-boats-to-save-people) |
@@ -269,6 +272,7 @@ My leet code submissions
 | [0169-majority-element](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0621-task-scheduler) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Linked List
 |  |
@@ -304,6 +308,7 @@ My leet code submissions
 | [0055-jump-game](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0890-lemonade-change) |
@@ -330,6 +335,7 @@ My leet code submissions
 | [0215-kth-largest-element-in-an-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0948-sort-an-array) |
