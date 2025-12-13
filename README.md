@@ -87,6 +87,7 @@ My leet code submissions
 | [0229-majority-element-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0567-permutation-in-string) |
@@ -278,6 +279,7 @@ My leet code submissions
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0237-delete-node-in-a-linked-list) |
+| [0355-design-twitter](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0355-design-twitter) |
 | [0816-design-hashset](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0817-design-hashmap) |
 ## Sliding Window
@@ -320,6 +322,7 @@ My leet code submissions
 | [0155-min-stack](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0155-min-stack) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0304-range-sum-query-2d-immutable) |
+| [0355-design-twitter](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0817-design-hashmap) |
@@ -335,6 +338,7 @@ My leet code submissions
 | [0215-kth-largest-element-in-an-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0789-kth-largest-element-in-a-stream) |
