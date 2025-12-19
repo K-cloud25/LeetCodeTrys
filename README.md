@@ -68,6 +68,7 @@ My leet code submissions
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1834-single-threaded-cpu](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1834-single-threaded-cpu) |
 | [2058-concatenation-of-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/2058-concatenation-of-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/K-cloud25/LeetCodeTrys/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Hash Table
@@ -163,6 +164,7 @@ My leet code submissions
 | [0917-boats-to-save-people](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0973-k-closest-points-to-origin) |
+| [1834-single-threaded-cpu](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1834-single-threaded-cpu) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/K-cloud25/LeetCodeTrys/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
@@ -345,6 +347,7 @@ My leet code submissions
 | [0948-sort-an-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0973-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1127-last-stone-weight) |
+| [1834-single-threaded-cpu](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1834-single-threaded-cpu) |
 ## Bucket Sort
 |  |
 | ------- |
