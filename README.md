@@ -248,6 +248,7 @@ My leet code submissions
 | [0680-valid-palindrome-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0767-reorganize-string) |
 | [1078-remove-outermost-parentheses](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1078-remove-outermost-parentheses) |
+| [1405-longest-happy-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1405-longest-happy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -322,6 +323,7 @@ My leet code submissions
 | [0767-reorganize-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0767-reorganize-string) |
 | [0890-lemonade-change](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0917-boats-to-save-people) |
+| [1405-longest-happy-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1405-longest-happy-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/K-cloud25/LeetCodeTrys/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Design
 |  |
@@ -353,6 +355,7 @@ My leet code submissions
 | [0948-sort-an-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0973-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1127-last-stone-weight) |
+| [1405-longest-happy-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1405-longest-happy-string) |
 | [1834-single-threaded-cpu](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1834-single-threaded-cpu) |
 ## Bucket Sort
 |  |
