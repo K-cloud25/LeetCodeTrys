@@ -443,4 +443,8 @@ My leet code submissions
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0973-k-closest-points-to-origin) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
