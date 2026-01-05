@@ -63,6 +63,7 @@ My leet code submissions
 | [0966-binary-subarrays-with-sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0966-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0973-k-closest-points-to-origin) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1094-car-pooling](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1094-car-pooling) |
 | [1127-last-stone-weight](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1127-last-stone-weight) |
 | [1370-count-number-of-nice-subarrays](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -114,6 +115,7 @@ My leet code submissions
 | ------- |
 | [0054-spiral-matrix](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0735-asteroid-collision) |
+| [1094-car-pooling](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1094-car-pooling) |
 | [2058-concatenation-of-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/2058-concatenation-of-array) |
 ## Prefix Sum
 |  |
@@ -123,6 +125,7 @@ My leet code submissions
 | [0304-range-sum-query-2d-immutable](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0966-binary-subarrays-with-sum) |
+| [1094-car-pooling](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1094-car-pooling) |
 | [1370-count-number-of-nice-subarrays](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
@@ -166,6 +169,7 @@ My leet code submissions
 | [0917-boats-to-save-people](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0973-k-closest-points-to-origin) |
+| [1094-car-pooling](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1094-car-pooling) |
 | [1834-single-threaded-cpu](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1834-single-threaded-cpu) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/K-cloud25/LeetCodeTrys/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Binary Search
@@ -354,6 +358,7 @@ My leet code submissions
 | [0789-kth-largest-element-in-a-stream](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0973-k-closest-points-to-origin) |
+| [1094-car-pooling](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1094-car-pooling) |
 | [1127-last-stone-weight](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1127-last-stone-weight) |
 | [1405-longest-happy-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1405-longest-happy-string) |
 | [1834-single-threaded-cpu](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1834-single-threaded-cpu) |
