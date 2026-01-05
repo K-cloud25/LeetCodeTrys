@@ -452,4 +452,5 @@ My leet code submissions
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0175-combine-two-tables) |
+| [0182-duplicate-emails](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
