@@ -458,4 +458,5 @@ My leet code submissions
 | [0197-rising-temperature](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0577-employee-bonus) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 <!---LeetCode Topics End-->
