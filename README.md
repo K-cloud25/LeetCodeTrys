@@ -138,6 +138,7 @@ My leet code submissions
 | [0075-sort-colors](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0151-reverse-words-in-a-string) |
+| [0295-find-median-from-data-stream](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0567-permutation-in-string) |
@@ -160,6 +161,7 @@ My leet code submissions
 | [0217-contains-duplicate](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0621-task-scheduler) |
@@ -333,6 +335,7 @@ My leet code submissions
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0304-range-sum-query-2d-immutable) |
 | [0355-design-twitter](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0355-design-twitter) |
@@ -350,6 +353,7 @@ My leet code submissions
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0621-task-scheduler) |
@@ -407,6 +411,7 @@ My leet code submissions
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0937-online-stock-span) |
 ## Recursion
