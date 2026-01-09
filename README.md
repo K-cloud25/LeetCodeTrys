@@ -46,6 +46,7 @@ My leet code submissions
 | [0347-top-k-frequent-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0493-reverse-pairs) |
+| [0502-ipo](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0502-ipo) |
 | [0540-single-element-in-a-sorted-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0621-task-scheduler) |
@@ -164,6 +165,7 @@ My leet code submissions
 | [0295-find-median-from-data-stream](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0767-reorganize-string) |
@@ -323,6 +325,7 @@ My leet code submissions
 | [0055-jump-game](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0680-valid-palindrome-ii) |
@@ -356,6 +359,7 @@ My leet code submissions
 | [0295-find-median-from-data-stream](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0355-design-twitter) |
+| [0502-ipo](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0767-reorganize-string) |
