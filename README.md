@@ -475,4 +475,5 @@ My leet code submissions
 | [1075-project-employees-i](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1280-students-and-examinations](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1280-students-and-examinations) |
+| [1517-find-users-with-valid-e-mails](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1517-find-users-with-valid-e-mails) |
 <!---LeetCode Topics End-->
