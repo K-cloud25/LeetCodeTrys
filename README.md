@@ -482,4 +482,5 @@ My leet code submissions
 | [1789-primary-department-for-each-employee](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1789-primary-department-for-each-employee) |
 | [1795-rearrange-products-table](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1795-rearrange-products-table) |
 | [1890-the-latest-login-in-2020](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1890-the-latest-login-in-2020) |
+| [1965-employees-with-missing-information](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1965-employees-with-missing-information) |
 <!---LeetCode Topics End-->
