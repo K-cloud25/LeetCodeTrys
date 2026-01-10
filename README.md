@@ -478,4 +478,5 @@ My leet code submissions
 | [1517-find-users-with-valid-e-mails](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1527-patients-with-a-condition) |
 | [1661-average-time-of-process-per-machine](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1661-average-time-of-process-per-machine) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1741-find-total-time-spent-by-each-employee) |
 <!---LeetCode Topics End-->
