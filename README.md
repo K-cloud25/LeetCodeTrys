@@ -25,6 +25,7 @@ My leet code submissions
 | [0073-set-matrix-zeroes](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -410,6 +411,7 @@ My leet code submissions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Union Find
 |  |
@@ -497,6 +499,7 @@ My leet code submissions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
