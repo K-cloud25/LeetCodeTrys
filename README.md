@@ -497,6 +497,7 @@ My leet code submissions
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1158-market-analysis-i](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1158-market-analysis-i) |
 | [1164-product-price-at-a-given-date](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1164-product-price-at-a-given-date) |
+| [1174-immediate-food-delivery-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1174-immediate-food-delivery-ii) |
 | [1280-students-and-examinations](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1280-students-and-examinations) |
 | [1517-find-users-with-valid-e-mails](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1527-patients-with-a-condition) |
