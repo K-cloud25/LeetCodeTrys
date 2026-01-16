@@ -500,6 +500,7 @@ My leet code submissions
 | [1174-immediate-food-delivery-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1193-monthly-transactions-i) |
 | [1280-students-and-examinations](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1280-students-and-examinations) |
+| [1321-restaurant-growth](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1321-restaurant-growth) |
 | [1517-find-users-with-valid-e-mails](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1527-patients-with-a-condition) |
 | [1661-average-time-of-process-per-machine](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1661-average-time-of-process-per-machine) |
