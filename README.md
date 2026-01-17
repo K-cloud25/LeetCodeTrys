@@ -415,6 +415,7 @@ My leet code submissions
 | [0022-generate-parentheses](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0040-combination-sum-ii) |
+| [0077-combinations](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Union Find
