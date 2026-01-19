@@ -522,6 +522,7 @@ My leet code submissions
 | [3421-find-students-who-improved](https://github.com/K-cloud25/LeetCodeTrys/tree/master/3421-find-students-who-improved) |
 | [3475-dna-pattern-recognition](https://github.com/K-cloud25/LeetCodeTrys/tree/master/3475-dna-pattern-recognition) |
 | [3497-analyze-subscription-conversion](https://github.com/K-cloud25/LeetCodeTrys/tree/master/3497-analyze-subscription-conversion) |
+| [3521-find-product-recommendation-pairs](https://github.com/K-cloud25/LeetCodeTrys/tree/master/3521-find-product-recommendation-pairs) |
 | [3570-find-books-with-no-available-copies](https://github.com/K-cloud25/LeetCodeTrys/tree/master/3570-find-books-with-no-available-copies) |
 ## Bit Manipulation
 |  |
