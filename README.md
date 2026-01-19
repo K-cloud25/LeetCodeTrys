@@ -19,6 +19,7 @@ My leet code submissions
 | [0041-first-missing-positive](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0055-jump-game) |
@@ -415,6 +416,7 @@ My leet code submissions
 | [0022-generate-parentheses](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1863-sum-of-all-subset-xor-totals) |
