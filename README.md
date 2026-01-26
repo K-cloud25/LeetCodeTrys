@@ -535,6 +535,7 @@ My leet code submissions
 | [3521-find-product-recommendation-pairs](https://github.com/K-cloud25/LeetCodeTrys/tree/master/3521-find-product-recommendation-pairs) |
 | [3564-seasonal-sales-analysis](https://github.com/K-cloud25/LeetCodeTrys/tree/master/3564-seasonal-sales-analysis) |
 | [3570-find-books-with-no-available-copies](https://github.com/K-cloud25/LeetCodeTrys/tree/master/3570-find-books-with-no-available-copies) |
+| [3580-find-consistently-improving-employees](https://github.com/K-cloud25/LeetCodeTrys/tree/master/3580-find-consistently-improving-employees) |
 ## Bit Manipulation
 |  |
 | ------- |
