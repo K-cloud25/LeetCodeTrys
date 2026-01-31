@@ -52,6 +52,7 @@ My leet code submissions
 | [0304-range-sum-query-2d-immutable](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0455-assign-cookies) |
+| [0473-matchsticks-to-square](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0473-matchsticks-to-square) |
 | [0493-reverse-pairs](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0493-reverse-pairs) |
 | [0502-ipo](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0502-ipo) |
 | [0540-single-element-in-a-sorted-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0540-single-element-in-a-sorted-array) |
@@ -245,6 +246,7 @@ My leet code submissions
 | [0124-binary-tree-maximum-path-sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0152-maximum-product-subarray) |
+| [0473-matchsticks-to-square](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0473-matchsticks-to-square) |
 | [0678-valid-parenthesis-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0678-valid-parenthesis-string) |
 ## String
 |  |
@@ -434,6 +436,7 @@ My leet code submissions
 | [0079-word-search](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0131-palindrome-partitioning) |
+| [0473-matchsticks-to-square](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0473-matchsticks-to-square) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Union Find
 |  |
@@ -550,6 +553,7 @@ My leet code submissions
 | ------- |
 | [0078-subsets](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0090-subsets-ii) |
+| [0473-matchsticks-to-square](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0473-matchsticks-to-square) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -559,4 +563,8 @@ My leet code submissions
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
