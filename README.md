@@ -22,6 +22,7 @@ My leet code submissions
 | [0046-permutations](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0056-merge-intervals) |
@@ -433,6 +434,7 @@ My leet code submissions
 | [0040-combination-sum-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0079-word-search) |
