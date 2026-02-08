@@ -38,6 +38,7 @@ My leet code submissions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0128-longest-consecutive-sequence) |
+| [0140-word-break-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -96,6 +97,7 @@ My leet code submissions
 | [0073-set-matrix-zeroes](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0128-longest-consecutive-sequence) |
+| [0140-word-break-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0219-contains-duplicate-ii) |
@@ -247,6 +249,7 @@ My leet code submissions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0152-maximum-product-subarray) |
 | [0473-matchsticks-to-square](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0473-matchsticks-to-square) |
 | [0678-valid-parenthesis-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0678-valid-parenthesis-string) |
@@ -265,6 +268,7 @@ My leet code submissions
 | [0076-minimum-window-substring](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -301,6 +305,7 @@ My leet code submissions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0014-longest-common-prefix) |
+| [0140-word-break-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0140-word-break-ii) |
 ## Counting
 |  |
 | ------- |
@@ -441,6 +446,7 @@ My leet code submissions
 | [0079-word-search](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0140-word-break-ii) |
 | [0473-matchsticks-to-square](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -581,5 +587,6 @@ My leet code submissions
 ## Memoization
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0140-word-break-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
