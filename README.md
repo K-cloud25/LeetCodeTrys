@@ -553,6 +553,7 @@ My leet code submissions
 | [1978-employees-whose-manager-left-the-company](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/K-cloud25/LeetCodeTrys/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3220-odd-and-even-transactions](https://github.com/K-cloud25/LeetCodeTrys/tree/master/3220-odd-and-even-transactions) |
+| [3374-first-letter-capitalization-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/3374-first-letter-capitalization-ii) |
 | [3421-find-students-who-improved](https://github.com/K-cloud25/LeetCodeTrys/tree/master/3421-find-students-who-improved) |
 | [3475-dna-pattern-recognition](https://github.com/K-cloud25/LeetCodeTrys/tree/master/3475-dna-pattern-recognition) |
 | [3497-analyze-subscription-conversion](https://github.com/K-cloud25/LeetCodeTrys/tree/master/3497-analyze-subscription-conversion) |
