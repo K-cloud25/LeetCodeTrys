@@ -272,6 +272,7 @@ My leet code submissions
 | [0140-word-break-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0344-reverse-string) |
@@ -309,6 +310,7 @@ My leet code submissions
 | [0014-longest-common-prefix](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0014-longest-common-prefix) |
 | [0140-word-break-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Counting
 |  |
 | ------- |
@@ -368,6 +370,7 @@ My leet code submissions
 | ------- |
 | [0155-min-stack](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0304-range-sum-query-2d-immutable) |
@@ -481,6 +484,7 @@ My leet code submissions
 | ------- |
 | [0079-word-search](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0079-word-search) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
