@@ -85,6 +85,7 @@ My leet code submissions
 | [1863-sum-of-all-subset-xor-totals](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2058-concatenation-of-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/2058-concatenation-of-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/K-cloud25/LeetCodeTrys/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2707-extra-characters-in-a-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/2707-extra-characters-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,6 +118,7 @@ My leet code submissions
 | [1370-count-number-of-nice-subarrays](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2707-extra-characters-in-a-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/2707-extra-characters-in-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -255,6 +257,7 @@ My leet code submissions
 | [0473-matchsticks-to-square](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0473-matchsticks-to-square) |
 | [0678-valid-parenthesis-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [2707-extra-characters-in-a-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/2707-extra-characters-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -288,6 +291,7 @@ My leet code submissions
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1894-merge-strings-alternately](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1894-merge-strings-alternately) |
+| [2707-extra-characters-in-a-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/2707-extra-characters-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -311,6 +315,7 @@ My leet code submissions
 | [0140-word-break-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0211-design-add-and-search-words-data-structure) |
+| [2707-extra-characters-in-a-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/2707-extra-characters-in-a-string) |
 ## Counting
 |  |
 | ------- |
