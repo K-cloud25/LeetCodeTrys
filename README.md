@@ -44,6 +44,7 @@ My leet code submissions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0219-contains-duplicate-ii) |
@@ -127,6 +128,7 @@ My leet code submissions
 | [0073-set-matrix-zeroes](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0304-range-sum-query-2d-immutable) |
 ## Simulation
@@ -276,6 +278,7 @@ My leet code submissions
 | [0151-reverse-words-in-a-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0344-reverse-string) |
@@ -315,6 +318,7 @@ My leet code submissions
 | [0140-word-break-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0212-word-search-ii) |
 | [2707-extra-characters-in-a-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/2707-extra-characters-in-a-string) |
 ## Counting
 |  |
@@ -459,6 +463,7 @@ My leet code submissions
 | [0090-subsets-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0212-word-search-ii) |
 | [0473-matchsticks-to-square](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1863-sum-of-all-subset-xor-totals) |
