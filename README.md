@@ -77,6 +77,7 @@ My leet code submissions
 | [0953-verifying-an-alien-dictionary](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0953-verifying-an-alien-dictionary) |
 | [0966-binary-subarrays-with-sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0966-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0973-k-closest-points-to-origin) |
+| [0997-find-the-town-judge](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0997-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1094-car-pooling](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1094-car-pooling) |
 | [1127-last-stone-weight](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1127-last-stone-weight) |
@@ -119,6 +120,7 @@ My leet code submissions
 | [0817-design-hashmap](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0817-design-hashmap) |
 | [0953-verifying-an-alien-dictionary](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0953-verifying-an-alien-dictionary) |
 | [0966-binary-subarrays-with-sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0966-binary-subarrays-with-sum) |
+| [0997-find-the-town-judge](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0997-find-the-town-judge) |
 | [1370-count-number-of-nice-subarrays](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -617,4 +619,8 @@ My leet code submissions
 | ------- |
 | [0140-word-break-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0140-word-break-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
