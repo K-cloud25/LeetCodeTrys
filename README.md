@@ -43,6 +43,7 @@ My leet code submissions
 | [0152-maximum-product-subarray](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0215-kth-largest-element-in-an-array) |
@@ -133,6 +134,7 @@ My leet code submissions
 | [0073-set-matrix-zeroes](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0304-range-sum-query-2d-immutable) |
@@ -501,6 +503,7 @@ My leet code submissions
 | ------- |
 | [0079-word-search](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0079-word-search) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0463-island-perimeter) |
@@ -516,6 +519,7 @@ My leet code submissions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0463-island-perimeter) |
 ## Binary Search Tree
@@ -623,4 +627,8 @@ My leet code submissions
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0997-find-the-town-judge) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
