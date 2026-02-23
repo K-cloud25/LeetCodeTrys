@@ -64,6 +64,7 @@ My leet code submissions
 | [0560-subarray-sum-equals-k](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0658-find-k-closest-elements) |
+| [0695-max-area-of-island](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0735-asteroid-collision](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0739-daily-temperatures) |
@@ -139,6 +140,7 @@ My leet code submissions
 | [0240-search-a-2d-matrix-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0304-range-sum-query-2d-immutable) |
 | [0463-island-perimeter](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0695-max-area-of-island) |
 ## Simulation
 |  |
 | ------- |
@@ -508,6 +510,7 @@ My leet code submissions
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -522,6 +525,7 @@ My leet code submissions
 | [0200-number-of-islands](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0695-max-area-of-island) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -631,4 +635,5 @@ My leet code submissions
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
