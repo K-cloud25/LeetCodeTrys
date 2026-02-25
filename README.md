@@ -79,6 +79,7 @@ My leet code submissions
 | [0953-verifying-an-alien-dictionary](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0953-verifying-an-alien-dictionary) |
 | [0966-binary-subarrays-with-sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0966-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0997-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1094-car-pooling](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1094-car-pooling) |
@@ -142,6 +143,7 @@ My leet code submissions
 | [0304-range-sum-query-2d-immutable](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0304-range-sum-query-2d-immutable) |
 | [0463-island-perimeter](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0994-rotting-oranges) |
 ## Simulation
 |  |
 | ------- |
@@ -529,6 +531,7 @@ My leet code submissions
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
 |  |
 | ------- |
