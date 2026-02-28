@@ -69,6 +69,7 @@ My leet code submissions
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0735-asteroid-collision](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0739-daily-temperatures) |
+| [0752-open-the-lock](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0752-open-the-lock) |
 | [0792-binary-search](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0817-design-hashmap) |
@@ -120,6 +121,7 @@ My leet code submissions
 | [0560-subarray-sum-equals-k](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0621-task-scheduler) |
+| [0752-open-the-lock](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0767-reorganize-string) |
 | [0816-design-hashset](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0817-design-hashmap) |
@@ -302,6 +304,7 @@ My leet code submissions
 | [0567-permutation-in-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0680-valid-palindrome-ii) |
+| [0752-open-the-lock](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0767-reorganize-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0953-verifying-an-alien-dictionary) |
 | [1078-remove-outermost-parentheses](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1078-remove-outermost-parentheses) |
@@ -535,6 +538,7 @@ My leet code submissions
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0695-max-area-of-island) |
+| [0752-open-the-lock](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0752-open-the-lock) |
 | [0994-rotting-oranges](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
 |  |
