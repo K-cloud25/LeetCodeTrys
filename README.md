@@ -521,6 +521,7 @@ My leet code submissions
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0543-diameter-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
@@ -539,6 +540,7 @@ My leet code submissions
 | [0210-course-schedule-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0463-island-perimeter) |
+| [0684-redundant-connection](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0695-max-area-of-island) |
 | [0752-open-the-lock](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0752-open-the-lock) |
 | [0994-rotting-oranges](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0994-rotting-oranges) |
@@ -648,12 +650,14 @@ My leet code submissions
 | ------- |
 | [0133-clone-graph](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0684-redundant-connection) |
 | [0997-find-the-town-judge](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0997-find-the-town-judge) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0695-max-area-of-island) |
 ## Topological Sort
 |  |
