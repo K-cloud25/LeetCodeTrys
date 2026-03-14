@@ -56,6 +56,7 @@ My leet code submissions
 | [0240-search-a-2d-matrix-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0347-top-k-frequent-elements) |
+| [0399-evaluate-division](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0399-evaluate-division) |
 | [0455-assign-cookies](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0463-island-perimeter) |
 | [0473-matchsticks-to-square](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0473-matchsticks-to-square) |
@@ -300,6 +301,7 @@ My leet code submissions
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0678-valid-parenthesis-string) |
@@ -519,6 +521,7 @@ My leet code submissions
 | [0210-course-schedule-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0399-evaluate-division](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0684-redundant-connection) |
@@ -539,6 +542,7 @@ My leet code submissions
 | [0200-number-of-islands](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0399-evaluate-division](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0463-island-perimeter) |
 | [0684-redundant-connection](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0695-max-area-of-island) |
@@ -650,6 +654,7 @@ My leet code submissions
 | ------- |
 | [0133-clone-graph](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0684-redundant-connection) |
 | [0997-find-the-town-judge](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0997-find-the-town-judge) |
 ## Union-Find
@@ -657,10 +662,15 @@ My leet code submissions
 | ------- |
 | [0130-surrounded-regions](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0695-max-area-of-island) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
