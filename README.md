@@ -91,6 +91,7 @@ My leet code submissions
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1631-path-with-minimum-effort](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1631-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1834-single-threaded-cpu) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2058-concatenation-of-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/2058-concatenation-of-array) |
@@ -151,6 +152,7 @@ My leet code submissions
 | [0463-island-perimeter](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1631-path-with-minimum-effort) |
 ## Simulation
 |  |
 | ------- |
@@ -237,6 +239,7 @@ My leet code submissions
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1631-path-with-minimum-effort](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1631-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -437,6 +440,7 @@ My leet code submissions
 | [1094-car-pooling](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1094-car-pooling) |
 | [1127-last-stone-weight](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1127-last-stone-weight) |
 | [1405-longest-happy-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1405-longest-happy-string) |
+| [1631-path-with-minimum-effort](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1631-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1834-single-threaded-cpu) |
 ## Bucket Sort
 |  |
@@ -531,6 +535,7 @@ My leet code submissions
 | [0543-diameter-of-binary-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0695-max-area-of-island) |
+| [1631-path-with-minimum-effort](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -554,6 +559,7 @@ My leet code submissions
 | [0695-max-area-of-island](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0695-max-area-of-island) |
 | [0752-open-the-lock](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0752-open-the-lock) |
 | [0994-rotting-oranges](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -671,6 +677,7 @@ My leet code submissions
 | [0399-evaluate-division](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0695-max-area-of-island) |
+| [1631-path-with-minimum-effort](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1631-path-with-minimum-effort) |
 ## Topological Sort
 |  |
 | ------- |
