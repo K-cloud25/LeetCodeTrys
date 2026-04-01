@@ -433,6 +433,7 @@ My leet code submissions
 | [0502-ipo](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0658-find-k-closest-elements) |
+| [0743-network-delay-time](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0767-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0948-sort-an-array) |
@@ -535,6 +536,7 @@ My leet code submissions
 | [0543-diameter-of-binary-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
@@ -557,6 +559,7 @@ My leet code submissions
 | [0463-island-perimeter](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0463-island-perimeter) |
 | [0684-redundant-connection](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0752-open-the-lock) |
 | [0994-rotting-oranges](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1631-path-with-minimum-effort) |
@@ -668,6 +671,7 @@ My leet code submissions
 | [0210-course-schedule-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0743-network-delay-time) |
 | [0997-find-the-town-judge](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0997-find-the-town-judge) |
 ## Union-Find
 |  |
@@ -686,4 +690,5 @@ My leet code submissions
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0399-evaluate-division) |
+| [0743-network-delay-time](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
