@@ -274,6 +274,7 @@ My leet code submissions
 | [0042-trapping-rain-water](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -383,6 +384,7 @@ My leet code submissions
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0973-k-closest-points-to-origin](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0973-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1370-count-number-of-nice-subarrays) |
@@ -662,6 +664,7 @@ My leet code submissions
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0140-word-break-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Graph Theory
