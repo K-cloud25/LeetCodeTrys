@@ -70,6 +70,7 @@ My leet code submissions
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0735-asteroid-collision](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0752-open-the-lock) |
 | [0792-binary-search](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0816-design-hashset) |
@@ -284,6 +285,7 @@ My leet code submissions
 | [0473-matchsticks-to-square](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0473-matchsticks-to-square) |
 | [0678-valid-parenthesis-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0746-min-cost-climbing-stairs](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0746-min-cost-climbing-stairs) |
 | [2707-extra-characters-in-a-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/2707-extra-characters-in-a-string) |
 ## String
 |  |
