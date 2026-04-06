@@ -286,6 +286,7 @@ My leet code submissions
 | [0678-valid-parenthesis-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1137-n-th-tribonacci-number) |
 | [2707-extra-characters-in-a-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/2707-extra-characters-in-a-string) |
 ## String
 |  |
@@ -389,6 +390,7 @@ My leet code submissions
 | [0070-climbing-stairs](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0973-k-closest-points-to-origin](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0973-k-closest-points-to-origin) |
+| [1137-n-th-tribonacci-number](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1137-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1370-count-number-of-nice-subarrays) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Greedy
@@ -669,6 +671,7 @@ My leet code submissions
 | [0070-climbing-stairs](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0140-word-break-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1137-n-th-tribonacci-number](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1137-n-th-tribonacci-number) |
 ## Graph Theory
 |  |
 | ------- |
