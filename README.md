@@ -39,6 +39,7 @@ My leet code submissions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0152-maximum-product-subarray) |
@@ -114,6 +115,7 @@ My leet code submissions
 | [0127-word-ladder](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0208-implement-trie-prefix-tree) |
@@ -284,6 +286,7 @@ My leet code submissions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0198-house-robber) |
@@ -311,6 +314,7 @@ My leet code submissions
 | [0091-decode-ways](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0208-implement-trie-prefix-tree) |
@@ -357,6 +361,7 @@ My leet code submissions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -679,6 +684,7 @@ My leet code submissions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0140-word-break-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1137-n-th-tribonacci-number](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1137-n-th-tribonacci-number) |
