@@ -291,6 +291,7 @@ My leet code submissions
 | [0140-word-break-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0377-combination-sum-iv) |
 | [0473-matchsticks-to-square](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0473-matchsticks-to-square) |
@@ -405,6 +406,7 @@ My leet code submissions
 | ------- |
 | [0070-climbing-stairs](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0279-perfect-squares](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0279-perfect-squares) |
 | [0973-k-closest-points-to-origin](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1137-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1370-count-number-of-nice-subarrays) |
@@ -576,6 +578,7 @@ My leet code submissions
 | [0133-clone-graph](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0399-evaluate-division) |
