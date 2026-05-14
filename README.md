@@ -293,6 +293,7 @@ My leet code submissions
 | [0198-house-robber](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0377-combination-sum-iv) |
 | [0473-matchsticks-to-square](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0473-matchsticks-to-square) |
 | [0647-palindromic-substrings](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0647-palindromic-substrings) |
@@ -407,6 +408,7 @@ My leet code submissions
 | [0070-climbing-stairs](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0279-perfect-squares](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0279-perfect-squares) |
+| [0343-integer-break](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0343-integer-break) |
 | [0973-k-closest-points-to-origin](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1137-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1370-count-number-of-nice-subarrays) |
