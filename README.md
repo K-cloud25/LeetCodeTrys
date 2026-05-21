@@ -93,6 +93,7 @@ My leet code submissions
 | [1094-car-pooling](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1094-car-pooling) |
 | [1127-last-stone-weight](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1127-last-stone-weight) |
 | [1370-count-number-of-nice-subarrays](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1370-count-number-of-nice-subarrays) |
+| [1406-stone-game-iii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1406-stone-game-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -301,6 +302,7 @@ My leet code submissions
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1137-n-th-tribonacci-number) |
+| [1406-stone-game-iii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1406-stone-game-iii) |
 | [2707-extra-characters-in-a-string](https://github.com/K-cloud25/LeetCodeTrys/tree/master/2707-extra-characters-in-a-string) |
 ## String
 |  |
@@ -412,6 +414,7 @@ My leet code submissions
 | [0973-k-closest-points-to-origin](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1137-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1370-count-number-of-nice-subarrays) |
+| [1406-stone-game-iii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1406-stone-game-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Greedy
 |  |
@@ -722,4 +725,8 @@ My leet code submissions
 | ------- |
 | [0399-evaluate-division](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0743-network-delay-time) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
