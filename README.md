@@ -282,6 +282,7 @@ My leet code submissions
 | [0042-trapping-rain-water](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -407,6 +408,7 @@ My leet code submissions
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0279-perfect-squares](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0279-perfect-squares) |
@@ -680,6 +682,7 @@ My leet code submissions
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0062-unique-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
