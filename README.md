@@ -736,4 +736,8 @@ My leet code submissions
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1406-stone-game-iii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
