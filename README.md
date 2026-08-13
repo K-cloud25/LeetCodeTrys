@@ -39,6 +39,7 @@ My leet code submissions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0130-surrounded-regions) |
+| [0137-single-number-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -682,6 +683,7 @@ My leet code submissions
 | ------- |
 | [0078-subsets](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0090-subsets-ii) |
+| [0137-single-number-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0260-single-number-iii) |
 | [0473-matchsticks-to-square](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0473-matchsticks-to-square) |
