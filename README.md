@@ -255,6 +255,7 @@ My leet code submissions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0347-top-k-frequent-elements) |
@@ -681,6 +682,7 @@ My leet code submissions
 | ------- |
 | [0078-subsets](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0260-single-number-iii) |
 | [0473-matchsticks-to-square](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0698-partition-to-k-equal-sum-subsets) |
