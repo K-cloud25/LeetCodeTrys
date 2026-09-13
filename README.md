@@ -85,6 +85,7 @@ My leet code submissions
 | [0792-binary-search](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0817-design-hashmap) |
+| [0875-koko-eating-bananas](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0875-koko-eating-bananas) |
 | [0883-car-fleet](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0907-koko-eating-bananas) |
@@ -253,6 +254,7 @@ My leet code submissions
 | [0658-find-k-closest-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
