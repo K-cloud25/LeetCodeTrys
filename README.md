@@ -76,6 +76,7 @@ My leet code submissions
 | [0658-find-k-closest-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0704-binary-search](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0739-daily-temperatures) |
@@ -250,6 +251,7 @@ My leet code submissions
 | [0493-reverse-pairs](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/K-cloud25/LeetCodeTrys/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/K-cloud25/LeetCodeTrys/tree/master/1056-capacity-to-ship-packages-within-d-days) |
